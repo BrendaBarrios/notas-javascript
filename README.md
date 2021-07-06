@@ -61,13 +61,13 @@ Con los datos de tipo number se realizan operaciones aritmèticas como:
 Para realizar operaciones se usan signos a los que se les conoce como **operadores**:
 suma(+), resta(-), multiplicaciòn(*), divisiòn(/) y residuo o modulo(%).
 
-```
+```javascript
 let suma = 4 + 5
 console.log(suma)
 -> 9
 ```
 
-Recuerda que se usa la 
+Recuerda que se usa:
 * _Precedencia de operaciones:_ primero se realizaràn las divisiòn,multiplicaciòn y residuo. Despues las restas y sumas.
 * _Tàmbien se respetan los parentesis_
 * _En caso de no tener de realizan las operaciones de izquierda a derecha_
